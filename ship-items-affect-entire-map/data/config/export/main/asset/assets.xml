@@ -1,0 +1,1929 @@
+<ModOps>
+	<!-- Warships - socket change to a radius affect -->
+	<!-- Flagship -->
+	<ModOp Type="add" GUID='101121' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>	
+	<!-- Gunboat -->
+	<ModOp Type="add" GUID='100437' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Frigate -->
+	<ModOp Type="add" GUID='100439' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Ship-of-the-Line -->
+	<ModOp Type="add" GUID='100440' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Battle Cruiser -->
+	<ModOp Type="add" GUID='100442' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Ship-of-the-Line... Another skin? -->
+	<ModOp Type="add" GUID='119354' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Monitor -->
+	<ModOp Type="add" GUID='100443' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>	
+	<!-- PreorderFlagship DEPRECATED -->
+	<ModOp Type="add" GUID='102437' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pirate Gunboat -->
+	<ModOp Type="add" GUID='102420' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pirate Frigate -->
+	<ModOp Type="add" GUID='102421' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pirate Ship-of-the-line -->
+	<ModOp Type="add" GUID='102419' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pirate Monitor -->
+	<ModOp Type="add" GUID='102422' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pyphorian Monitor -->
+	<ModOp Type="add" GUID='102423' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pyrphorian Battle Cruiser -->
+	<ModOp Type="add" GUID='102425' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Pyrphorian CommandoShip -->
+	<ModOp Type="add" GUID='102428' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Royal Ship-of-the-line -->
+	<ModOp Type="add" GUID='102427' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Flagship(campaign) -->
+	<ModOp Type="add" GUID='101432' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Campaign Flagship (Deprecated) -->
+	<ModOp Type="add" GUID='119856' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Flagship - Campaign(Preorder/Deprecated) -->
+	<ModOp Type="add" GUID='119856' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Small Pirate Ship -->
+	<ModOp Type="add" GUID='102403' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+	<!-- Grande de Imperio (Vasco's flagship)-->
+	<ModOp Type="add" GUID='111881' Path="/Values/ItemContainer">
+		<SocketScope>Radius</SocketScope>
+		<SocketScopeRadius>Session</SocketScopeRadius>
+		<ItemEffect>
+			<EffectTargets>
+				<Item>
+					<GUID>191458</GUID>
+				</Item>
+			</EffectTargets>
+		</ItemEffect>
+	</ModOp>
+    <!-- Ship Specialists -->
+    <!-- Sailor -->
+    <ModOp Type="add" GUID='191444' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Mate -->
+    <ModOp Type="add" GUID='191445' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Midshipman -->
+    <ModOp Type="add" GUID='191446' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Bo'sun' -->
+    <ModOp Type="add" GUID='191447' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Tugboatman -->
+    <ModOp Type="add" GUID='191448' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Pilot -->
+    <ModOp Type="add" GUID='191449' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Ibrahim -->
+    <ModOp Type="add" GUID='190766' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Kadijah -->
+    <ModOp Type="add" GUID='191450' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Felicity Phoenix, Back From the Grave -->
+    <ModOp Type="add" GUID='191451' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Richard Moses, Skipper of Schooners -->
+    <ModOp Type="add" GUID='191452' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Smith, Titan of the Sea -->
+    <ModOp Type="add" GUID='191453' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ensign -->
+    <ModOp Type="add" GUID='191596' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Gunsmith -->
+    <ModOp Type="add" GUID='191597' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Former Pirate -->
+    <ModOp Type="add" GUID='191598' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Sergeant -->
+    <ModOp Type="add" GUID='191599' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain of Marines -->
+    <ModOp Type="add" GUID='191600' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Former Corsair -->
+    <ModOp Type="add" GUID='191601' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ship's Chaplain -->
+    <ModOp Type="add" GUID='191602' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Vice-Admiral Adams -->
+    <ModOp Type="add" GUID='191603' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Vice-Admiral Romanov -->
+    <ModOp Type="add" GUID='191604' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Vice-Almirante Gonçalves -->
+    <ModOp Type="add" GUID='191605' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Vice-Almirante Paulista -->
+    <ModOp Type="add" GUID='191606' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Wilma the Wild, Bearer of Barracudas -->
+    <ModOp Type="add" GUID='191607' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lord High Admiral Nadasky, The Astute -->
+    <ModOp Type="add" GUID='191608' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Georgina Duffy, The Call your Bluffy -->
+    <ModOp Type="add" GUID='191609' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Admiral Haynes, Beholder of Far Horizons -->
+    <ModOp Type="add" GUID='191610' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Commmodore Stephen Drake, The Besieger -->
+    <ModOp Type="add" GUID='191611' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lader -->
+    <ModOp Type="add" GUID='191615' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Handler -->
+    <ModOp Type="add" GUID='191616' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Merchant -->
+    <ModOp Type="add" GUID='191617' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Shipper -->
+    <ModOp Type="add" GUID='191618' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Port Dealer -->
+    <ModOp Type="add" GUID='191619' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Exporter of Goods -->
+    <ModOp Type="add" GUID='191620' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Itsuko the International Exporter -->
+    <ModOp Type="add" GUID='191621' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Salima the Shipping Operator -->
+    <ModOp Type="add" GUID='191622' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Delores the Diplomat -->
+    <ModOp Type="add" GUID='191623' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ermenegilda Di Mercante, Purveyor of Tall Ships -->
+    <ModOp Type="add" GUID='191624' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lalla Mazigh, Merchant of a Free Market -->
+    <ModOp Type="add" GUID='191625' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Hans Eichendorf, A Wholesale Success -->
+    <ModOp Type="add" GUID='191626' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Drew Durnil the Speculative Historian -->
+    <ModOp Type="add" GUID='192444' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lady Lu the Redeemed Pirate -->
+    <ModOp Type="add" GUID='192449' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Drae von Gast -->
+    <ModOp Type="add" GUID='193188' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Jack of all Traits -->
+    <ModOp Type="add" GUID='192074' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Dr Snuggles -->
+    <ModOp Type="add" GUID='190105' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ship Captain -->
+    <ModOp Type="add" GUID='190800' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Pirate Cadet -->
+    <ModOp Type="add" GUID='192093' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Willma von Tegetthoff -->
+    <ModOp Type="add" GUID='192092' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Captain Moby, Old Dog of the Sea -->
+    <ModOp Type="add" GUID='192090' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Geordy Duff -->
+    <ModOp Type="add" GUID='192091' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Incendiary -->
+    <ModOp Type="add" GUID='111126' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Arsonist -->
+    <ModOp Type="add" GUID='111127' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Jittery Pyromaniac -->
+    <ModOp Type="add" GUID='111128' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Wild Anarchist Vacco -->
+    <ModOp Type="add" GUID='111129' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Wild Anarchist Sacchetti -->
+    <ModOp Type="add" GUID='111131' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ella Golden, The Anarchist Luminary -->
+    <ModOp Type="add" GUID='111130' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Vehicle Items -->
+    <!-- Square Rig -->
+    <ModOp Type="add" GUID='191824' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lateen Style Sails -->
+    <ModOp Type="add" GUID='191013' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Fore-and-aft Rig Sails -->
+    <ModOp Type="add" GUID='191825' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Two-turn Screw Propeller -->
+    <ModOp Type="add" GUID='191829' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- One-turn Screw Propeller -->
+    <ModOp Type="add" GUID='191830' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Controllable-pitch Propeller -->
+    <ModOp Type="add" GUID='191831' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Fine Spyglass -->
+    <ModOp Type="add" GUID='191838' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- High-Powered Scope -->
+    <ModOp Type="add" GUID='191839' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Telemobiloscope -->
+    <ModOp Type="add" GUID='191840' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Fine Wood Hull -->
+    <ModOp Type="add" GUID='191848' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Fine Steel Hull -->
+    <ModOp Type="add" GUID='191849' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Reinforced Bulkhead -->
+    <ModOp Type="add" GUID='191850' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Singh's Steel Double-Hull -->
+    <ModOp Type="add" GUID='191851' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Congrave Rocket -->
+    <ModOp Type="add" GUID='191852' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- 18-pounder Long Gun -->
+    <ModOp Type="add" GUID='191853' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Hans Gun -->
+    <ModOp Type="add" GUID='191854' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Strongarm's Disappearing Gun -->
+    <ModOp Type="add" GUID='191855' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+
+    <!-- Exhaust Blower -->
+    <ModOp Type="add" GUID='191856' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Heat Exchanger -->
+    <ModOp Type="add" GUID='191857' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Plate Heat Exchanger -->
+    <ModOp Type="add" GUID='191858' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- White Flag -->
+    <ModOp Type="add" GUID='191878' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Great White Flag -->
+    <ModOp Type="add" GUID='191991' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Test Quest Item -->
+    <ModOp Type="add" GUID='190161' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Crappy Sails -->
+    <ModOp Type="add" GUID='190024' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Crappy Steam Motor -->
+    <ModOp Type="add" GUID='190025' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- SimpleTestItem -->
+    <ModOp Type="add" GUID='6000004' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- one time equip Sails -->
+    <ModOp Type="add" GUID='190138' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ship Mechanic -->
+    <ModOp Type="add" GUID='190591' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Spyglass -->
+    <ModOp Type="add" GUID='190592' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Depressuriser -->
+    <ModOp Type="add" GUID='193397' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Basic Cannon Upgrade -->
+    <ModOp Type="add" GUID='192086' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Cannon Upgrade -->
+    <ModOp Type="add" GUID='192087' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Advanced Cannons -->
+    <ModOp Type="add" GUID='192088' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- State-of-the-Art Cannons -->
+    <ModOp Type="add" GUID='192089' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Sail Ship Annihilator -->
+    <ModOp Type="add" GUID='192112' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Steam Ship Annihilator -->
+    <ModOp Type="add" GUID='192113' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Building Annihilator -->
+    <ModOp Type="add" GUID='192114' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Ballasted Diving Bell -->
+    <ModOp Type="add" GUID='112548' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>         
+
+    <!-- Moon Pool Diving Bell -->
+    <ModOp Type="add" GUID='112549' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- "Spoondrift" — Nathaniel's Pressurised Diving Bell -->
+    <ModOp Type="add" GUID='112550' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>         
+
+    <!--  Ballast Cable -->
+    <ModOp Type="add" GUID='112554' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Caoutchouc Cable -->
+    <ModOp Type="add" GUID='112555' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Advanced Umbilical Cable -->
+    <ModOp Type="add" GUID='112556' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>         
+
+    <!-- IndiscrimiN8r -->
+    <ModOp Type="add" GUID='112368' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>         
+
+    <!-- ExtermiN8r -->
+    <ModOp Type="add" GUID='112369' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>         
+
+    <!-- DomiN8r -->
+    <ModOp Type="add" GUID='112370' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Jet Propeller— "Squall" -->
+    <ModOp Type="add" GUID='112377' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Jet Propeller— "Cyclone" -->
+    <ModOp Type="add" GUID='112378' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Jet Propeller— "Hurricane" -->
+    <ModOp Type="add" GUID='112379' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Renowned Excavator -->
+    <ModOp Type="add" GUID='113353' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Audrey the Marine Archaeologist -->
+    <ModOp Type="add" GUID='113354' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Peter Flinders, Conservator of Artefacts -->
+    <ModOp Type="add" GUID='113355' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Marine Biologist -->
+    <ModOp Type="add" GUID='113356' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Scara the Marine Biologist -->
+    <ModOp Type="add" GUID='113357' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>          
+
+    <!-- Orvette Charles, Of The Royal Society of Oceanographers. -->
+    <ModOp Type="add" GUID='113358' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+
+    <!-- Hobby Diver -->
+    <ModOp Type="add" GUID='113359' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Nadia the Spotter -->
+    <ModOp Type="add" GUID='113360' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+
+    <!-- Anthony Anchovy, Salvager Of Sunken Sumps -->
+    <ModOp Type="add" GUID='113361' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Treasure Seeker -->
+    <ModOp Type="add" GUID='113362' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Lamie The Wistful Pirate  -->
+    <ModOp Type="add" GUID='113363' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>      
+    
+    <!-- Mai Kalan, Descryer Of Brilliant Jewels -->
+    <ModOp Type="add" GUID='113364' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+	
+	<!-- Vehicle Buffs -->
+    <!-- Captain Ibrahim's Shield -->
+    <ModOp Type="add" GUID='191595' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Ship Turbine -->
+    <ModOp Type="add" GUID='191835' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Ship Piston Engine -->
+    <ModOp Type="add" GUID='191836' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Multiple Expansion Steam Engine -->
+    <ModOp Type="add" GUID='191837' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Mounted gun -->
+    <ModOp Type="add" GUID='191859' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Flame Hose -->
+    <ModOp Type="add" GUID='191861' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Flame Thrower -->
+    <ModOp Type="add" GUID='191870' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Pyrphorian Flame Thrower -->
+    <ModOp Type="add" GUID='191871' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Forged Steel Shells -->
+    <ModOp Type="add" GUID='191943' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Cemented Steel Shells -->
+    <ModOp Type="add" GUID='191944' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Melinite Shells -->
+    <ModOp Type="add" GUID='191947' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Dunnite Shells -->
+    <ModOp Type="add" GUID='191948' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Canister Shot -->
+    <ModOp Type="add" GUID='191949' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Double Canister Shot -->
+    <ModOp Type="add" GUID='191950' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Ship Toolbox -->
+    <ModOp Type="add" GUID='191981' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Ship Tools -->
+    <ModOp Type="add" GUID='192156' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Ship Tool Trolley -->
+    <ModOp Type="add" GUID='191983' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Modern Ship Tools -->
+    <ModOp Type="add" GUID='192157' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- White Flag -->
+    <ModOp Type="add" GUID='191988' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Great White Flag -->
+    <ModOp Type="add" GUID='191994' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Trading Charter -->
+    <ModOp Type="add" GUID='192009' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Grand Trading Charter -->
+    <ModOp Type="add" GUID='192010' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Royal Trading Charter -->
+    <ModOp Type="add" GUID='192011' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Black Flag -->
+    <ModOp Type="add" GUID='192174' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Pirate Captain's Black Flag -->
+    <ModOp Type="add" GUID='192175' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Chain Shots -->
+    <ModOp Type="add" GUID='192453' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Bar Shots -->
+    <ModOp Type="add" GUID='192454' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Letter of Marque -->
+    <ModOp Type="add" GUID='192940' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Royal Letter of Marque -->
+    <ModOp Type="add" GUID='192941' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Letter of Immunity -->
+    <ModOp Type="add" GUID='192942' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Royal Letter of Immunity -->
+    <ModOp Type="add" GUID='192943' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Torpedo -->
+    <ModOp Type="add" GUID='193240' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Howitzer -->
+    <ModOp Type="add" GUID='193241' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Mortar -->
+    <ModOp Type="add" GUID='193242' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Torpedo -->
+    <ModOp Type="add" GUID='112200' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>
+
+    <!-- Naval Mine -->
+    <ModOp Type="add" GUID='112924' Path="/Values">
+        <ItemEffect>
+            <EffectTargets>
+                <Item>
+                    <GUID>191458</GUID>
+                </Item>
+            </EffectTargets>
+        </ItemEffect>
+    </ModOp>   
+</ModOps>
